@@ -1,0 +1,12 @@
+chromadb
+groq
+langchain-classic
+langchain-community
+langchain-core
+langchain-groq
+langchain-text-splitters
+numpy
+python-dotenv
+requests
+sentence-transformers
+streamlit
